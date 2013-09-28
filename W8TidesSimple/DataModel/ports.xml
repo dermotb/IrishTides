@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ports>
+	<Port Name="Ardglass" ID="0631" Desc="Phennick Cove marina" Image="Ardglass.png" Lat="54.2667° N" Long="5.6000° W"/>
+	<Port Name="Arklow" ID="0611" Desc="Old Norse: Arnkell-lág meaning meadow of Arnkell, Irish: An tInbhear Mór, meaning the great estuary" Image="arklow.png" Lat="52°47'.59N" Long="06°08'.16W"/>
+	<Port Name="Baginbun Head" ID="0764" Desc="" Image="baginbaun.png" Lat="52°16'.28N" Long="06°08'.15W"/>
+	<Port Name="Balbriggan" ID="0622" Desc="" Image="Balbriggan.png" Lat="53°36'.80N" Long="06°10'.70W"/>
+	<Port Name="Ballinskelligs Bay Castle" ID="0726" Desc="" Image="ballinskelligsbay.png" Lat="51°81'.70N" Long="10°26'.90W"/>
+	<Port Name="Ballycastle Bay" ID="0651" Desc="" Image="ballycastle.png" Lat="55°12'.50N" Long="06°14'.30"/>
+	<Port Name="Ballycotton" ID="0754" Desc="" Image="ballycotton.png" Lat="51°49'.70N" Long="08°00'.19W"/>
+	<Port Name="Ballycrovane Harbour" ID="0731" Desc="" Image="BallycrovaneHarbour.png" Lat="51°69'.69N" Long="09°99'.50W"/>
+	<Port Name="Ballyglass (Broadhaven)" ID="0639" Desc="" Image="ballyglass.png" Lat="54°29'.70N" Long="09°87'.70W"/>
+	<Port Name="Ballysadare Bay (Culleenamore)" ID="0690" Desc="" Image="ballysadare.png" Lat="54°23'.53N" Long="08°58'.88W"/>
+	<Port Name="Baltimore" ID="0743" Desc="Dún na Séad - Fort of the Jewels" Image="baltimore.png" Lat="51°28'.30N" Long="09°23'.40W"/>
+	<Port Name="Bangor" ID="0637A" Desc="" Image="Bangor.png" Lat="54°40'.02N" Long="05°40'30W"/>
+	<Port Name="Bantry" ID="0734" Desc="" Image="Bantry.png" Lat="51°40'.85N" Long="09°27'.85W"/>
+	<Port Name="BELFAST" ID="0638" Desc="Béal Feirste (mouth of the shoal), the Titanic city" Image="belfast.png" Lat="54°44'.10N" Long="05°41'.52W"/>
+	<Port Name="Black Ball Harbour" ID="0732" Desc="" Image="BlackBallHarbour.png" Lat="51°59'.16N" Long="10°04'.11W"/>
+	<Port Name="Blacksod Quay" ID="0694" Desc="" Image="BlacksodQuay.png" Lat="54°05'.00N" Long="10°02'.00W"/>
+	<Port Name="Bofin Harbour" ID="0702" Desc="" Image="BofinHarbour.png" Lat="53°36'.60N" Long="10°13'.20W"/>
+	<Port Name="Bulbinbeg" ID="0662" Desc="" Image="Bulbinbeg.png" Lat="54°18'.30" Long="08°34'.70"/>
+	<Port Name="Burtonport" ID="0682" Desc="" Image="Burtonport.png" Lat="54°58'.96N" Long="08°26'.36W"/>
+	<Port Name="Carnsore Point" ID="0766" Desc="" Image="CarnsorePoint.png" Lat="52°10'.00N" Long="06°22'.00W"/>
+	<Port Name="Carrickfergus" ID="0639" Desc="Carraig Fhearghais (Rock of Fergus)" Image="Carrickfergus.png" Lat="54°42'.63N" Long="05°48'.30W"/>
+	<Port Name="Carrigaholt" ID="0713A" Desc="" Image="Carrigaholt.png" Lat="53°00'.80N" Long="09°42'.29W"/>
+	<Port Name="Castletown Bearhaven" ID="0733" Desc="" Image="CastletownBearhaven.png" Lat="51°38'.80N" Long="09°54'.45W"/>
+	<Port Name="Castletownshend" ID="0744" Desc="" Image="Castletownshend.png" Lat="51°30'.91N" Long="09°10'.70W"/>
+	<Port Name="Cheekpoint" ID="0761A" Desc="" Image="Cheekpoint.png" Lat="52°15'.58N" Long="06°59'.47W"/>
+	<Port Name="Clare Island" ID="0696" Desc="" Image="ClareIsland.png" Lat="53°48'.10N" Long="09°56'.70W"/>
+	<Port Name="Clifden Bay" ID="0703" Desc="" Image="ClifdenBay.png" Lat="52°29'.40N" Long="10°05'.90W"/>
+	<Port Name="Clonakilty Bay" ID="0745" Desc="Cloich na Coillte, Clanna Chaoilte, more often referred to by locals simply as Clon" Image="clonakiltybay.png" Lat="51°62'.08N" Long="08°89'.42W"/>
+	<Port Name="COBH" ID="0750" Desc="" Image="COBH.png" Lat="51°51'.00N" Long="08°18'.00W"/>
+	<Port Name="Coleraine" ID="0653" Desc="" Image="Coleraine.png" Lat="55°09'.95N" Long="06°46'.17W"/>
+	<Port Name="Coney Island" ID="0719" Desc="" Image="ConeyIsland.png" Lat="54°51'.70N" Long="06°55'.00W"/>
+	<Port Name="Cork City" ID="0753" Desc="" Image="CorkCity.png" Lat="51°42'.89N" Long="08°15'.55W"/>
+	<Port Name="Courtmacsherry" ID="0746" Desc="" Image="Courtmacsherry.png" Lat="52°38'.22N" Long="08°40'.90W"/>
+	<Port Name="Courtown" ID="0607" Desc="" Image="Courtown.png" Lat="52°64'.48N" Long="06°22'.86W"/>
+	<Port Name="Cranfield Point" ID="0627" Desc="At the mouth of Carlingford Lough" Image="cranfieldpoint.png" Lat="54°00'.09N" Long="06°02'.00W"/>
+	<Port Name="Cranford Bay" ID="0668" Desc="" Image="CranfordBay.png" Lat="55°08'.38N" Long="07°41'.47W"/>
+	<Port Name="Cromane Point" ID="0724" Desc="" Image="CromanePoint.png" Lat="52°13'.86N" Long="09°89'.88W"/>
+	<Port Name="Crookhaven" ID="0741" Desc="" Image="Crookhaven.png" Lat="51°28'.50N" Long="09°42'.00W"/>
+	<Port Name="Culdaff Bay" ID="0660" Desc="" Image="CuldaffBay.png" Lat="55°03'.00" Long="07°13'.00W"/>
+	<Port Name="Culmore Point" ID="0657" Desc="" Image="CulmorePoint.png" Lat="55°02'.78N" Long="07°15'.20W"/>
+	<Port Name="Cushendun" ID="0644" Desc="" Image="Cushendun.png" Lat="55°08'.06N" Long="06°06'.39W"/>
+	<Port Name="Derry" ID="0659" Desc="" Image="Derry.png" Lat="54°59'.53N" Long="07°18'.33W"/>
+	<Port Name="Dingle Harbour" ID="0723" Desc="" Image="DingleHarbour.png" Lat="52°07'.°14N" Long="10°15'.48W"/>
+	<Port Name="Donaghadee" ID="0637" Desc="" Image="Donaghadee.png" Lat="54°38'.70N" Long="05°31'.80W"/>
+	<Port Name="Donegal Harbour (Salt Hill Quay)" ID="0686" Desc="" Image="DonegalHarbour.png" Lat="54°34'.15N" Long="08°27'.60W"/>
+	<Port Name="Downies Bay" ID="0671" Desc="" Image="DowniesBay.png" Lat="55°11'.36N" Long="07°50'.42W"/>
+	<Port Name="Dublin Bar" ID="0616" Desc="Between the East and North wall lighthouses " Image="dublinbar.png" Lat="53°21'.00N" Long="06°12'.00W"/>
+	<Port Name="Dublin North Wall" ID="0617" Desc="North wall quay" Image="dublinnorthwall.png" Lat="53°21'.00N" Long="06°13'.00W"/>
+	<Port Name="Dún Laoghaire" ID="0615" Desc="Six sailing clubs and the largest marina in Ireland" Image="dunlaoghaire.png" Lat="53°18'.16N" Long="06°07'.68"/>
+	<Port Name="Dunany Point" ID="0624" Desc="South side of Dundalk bay" Image="dunanypoint.png" Lat="53°53'.55N" Long="06°09'.40W"/>
+	<Port Name="Dunbeacon Harbour" ID="0736" Desc="" Image="DunbeaconHarbour.png" Lat="51°36'.35N" Long="09°33'.60W"/>
+	<Port Name="Dungarvan Harbour" ID="0756" Desc="" Image="DungarvanHarbour.png" Lat="52°05'.15N" Long="07°36'.70W"/>
+	<Port Name="Dunkerron Harbour" ID="0728" Desc="" Image="DunkerronHarbour.png" Lat="51°45'.00N" Long="10°00'.00W"/>
+	<Port Name="Dunmanus Harbour" ID="0737" Desc="" Image="DunmanusHarbour.png" Lat="51°32'.70N" Long="09°39'.86W"/>
+	<Port Name="Dunmore East" ID="0761" Desc="" Image="DunmoreEast.png" Lat="52°08'.95N" Long="06°59'.37W"/>
+	<Port Name="Fanad Head" ID="0664A" Desc="" Image="FanadHead.png" Lat="55°16'.57N" Long="07°37'.86W"/>
+	<Port Name="Fanny's Bay" ID="0666" Desc="" Image="FannysBay.png" Lat="55°11'.98N" Long="07°48'.83W"/>
+	<Port Name="Fenit Pier" ID="0721" Desc="" Image="FenitPier.png" Lat="52°16'.20N" Long="09°51'.61W"/>
+	<Port Name="Fethard-On-Sea" ID="0764A" Desc="" Image="Fethard-On-Sea.png" Lat="52°19'.00N" Long="06°38'.86W"/>
+	<Port Name="Foynes Island" ID="0716" Desc="" Image="FoynesIsland.png" Lat="52°37'.00N" Long="09°07'.00W"/>
+	<Port Name="GALWAY" ID="0709" Desc="Gallimh - the city of the tribes" Image="galway.png" Lat="53°15'.99N" Long="09°02'.77W"/>
+	<Port Name="Great Saltee" ID="0765" Desc="" Image="GreatSaltee.png" Lat="52.11'.67°N" Long="6.60'.00°W"/>
+	<Port Name="Greenore" ID="0626" Desc="" Image="Greenore.png" Lat="54°.03'.33N" Long="6.13'.33°W"/>
+	<Port Name="Greystones" ID="0614" Desc="" Image="Greystones.png" Lat="53.14'.40°N" Long="6.07'.20°W"/>
+	<Port Name="Gweedore Harbour" ID="0681" Desc="" Image="GweedoreHarbour.png" Lat="55°03'.75N" Long="08°18'.87W"/>
+	<Port Name="Howth" ID="0618" Desc="" Image="Howth.png" Lat="53°23'.60N" Long="06°04'.00W"/>
+	<Port Name="Inishbiggle" ID="0695" Desc="" Image="Inishbiggle.png" Lat=" 53°59'.39N" Long="9° 54'.20W"/>
+	<Port Name="Inishbofin Bay" ID="0672" Desc="" Image="InishbofinBay.png" Lat="55°10'.10N" Long="08°10'.50W"/>
+	<Port Name="Inishgort" ID="0697" Desc="" Image="Inishgort.png" Lat="53°.59'.64 " Long="10°.26'.28 "/>
+	<Port Name="Inishmore (Killeany Bay)" ID="0707" Desc="" Image="Inishmore.png" Lat="53.12'.36°N" Long="9.72'.75°W"/>
+	<Port Name="Inishtrahull" ID="0661" Desc="" Image="Inishtrahull.png" Lat="55°25'.85N" Long="07°14'.58"/>
+	<Port Name="Kilbaha Bay" ID="0713" Desc="" Image="Kilbaha.png" Lat="52.57'.08°N" Long="9.86'08°W"/>
+	<Port Name="Kilkeel" ID="0629" Desc="" Image="Kilkeel.png" Lat="54°03'.47N" Long="05°59'.26W"/>
+	<Port Name="Kilkieran Cove" ID="0706" Desc="" Image="Kilkieran.png" Lat="53°30'.33N" Long="09°07'.45W"/>
+	<Port Name="Killala Bay (Inishcrone)" ID="0692" Desc="" Image="Killala.png" Lat="54°13'.02N" Long="09°12'.80W"/>
+	<Port Name="Killard Point" ID="0632" Desc="" Image="Killard.png" Lat="54°25'.00°" Long="09°13'.33W"/>
+	<Port Name="Killary Harbour" ID="0701" Desc="An Caoláire Rua, Irelands only fjord" Image="killaryharbour.png" Lat="53°37'.83N" Long="09°54'.00W"/>
+	<Port Name="Killough Harbour" ID="0630A" Desc="" Image="Killough.png" Lat="54° 15'.00N" Long="05°37'.30W"/>
+	<Port Name="Killybegs" ID="0685" Desc="" Image="Killybegs.png" Lat="54°37'.91N" Long="08°26'.10W"/>
+	<Port Name="Killyleagh" ID="0634" Desc="" Image="Killyleagh.png" Lat="54°23'.61N" Long="05°38'.47W"/>
+	<Port Name="Kilmokea Point" ID="0761B" Desc="" Image="Kilmokea.png" Lat="52°17'.50N" Long="6°59'.29W"/>
+	<Port Name="Kilrush" ID="0714" Desc="" Image="Kilrush.png" Lat="52°37'.90N" Long="09°29'.70W"/>
+	<Port Name="Kinsale" ID="0747" Desc="" Image="Kinsale.png" Lat="51°40'.80N" Long="08°30'.00W"/>
+	<Port Name="Knights Town" ID="0725" Desc="" Image="KnightsTown.png" Lat="51°55'.37N" Long="10°17'14W"/>
+	<Port Name="LARNE" ID="0641" Desc="" Image="LARNE.png" Lat="54°51'.50N" Long="05°46'.73W"/>
+	<Port Name="Limerick Dock" ID="0718" Desc="" Image="LimerickDock.png" Lat="52°66'.75°N" Long="08°62'.61°W"/>
+	<Port Name="Liscannor" ID="0711" Desc="" Image="Liscannor.png" Lat="52°93'.33°N" Long="09°38'.33°W"/>
+	<Port Name="Loughros More Bay" ID="0683" Desc="" Image="LoughrosMore.png" Lat="54°80'.16N" Long="08°52'.13W"/>
+	<Port Name="Malahide" ID="0621" Desc="" Image="Malahide.png" Lat="53°27'.20N" Long="06°08'.90W"/>
+	<Port Name="Marino Point" ID="0752" Desc="" Image="MarinoPoint.png" Lat="51°87'.86N" Long="08°33'.08W"/>
+	<Port Name="Mellon Point" ID="0717" Desc="" Image="MellonPoint.png" Lat="52°67'.19N" Long="08°83'.80W"/>
+	<Port Name="Moville" ID="0655" Desc="" Image="Moville.png" Lat="55°20'.00N" Long="06°98'.33W"/>
+	<Port Name="Mullaghmore" ID="0688" Desc="" Image="Mullaghmore.png" Lat="54°27'.90N" Long="08°26'.80W"/>
+	<Port Name="Mulroy Bay Bar" ID="0665" Desc="" Image="MulroyBay.png" Lat="55°15'.30N" Long="07°46'.30W"/>
+	<Port Name="New Ross" ID="0763" Desc="" Image="NewRoss.png" Lat="52°39'.56N" Long="06°94'.51W"/>
+	<Port Name="Newcastle (NI)" ID="0630" Desc="" Image="Newcastle(NI).png" Lat="54°11'.80N" Long="05°53'.00W"/>
+	<Port Name="Newry (Victoria Lock)" ID="0628A" Desc="" Image="Newry.png" Lat="54°17'.81N" Long="06°33'.57W"/>
+	<Port Name="Portavogie" ID="0636" Desc="" Image="Portavogie.png" Lat="54°27'.45N" Long="05°26'.08W"/>
+	<Port Name="Portrush" ID="0652" Desc="Port Rois (promontory port), Royal portrush golf club" Image="portrush.png" Lat="55°12'.35N" Long="06°39'.52W"/>
+	<Port Name="Quigley's Point" ID="0656" Desc="" Image="QuigleysPoint.png" Lat="55°20'.00N" Long="06°98'.33W"/>
+	<Port Name="Quoile Barrier" ID="0633A" Desc="" Image="QuoileBarrier.png" Lat="54°21'.00" Long="05°41'.00W"/>
+	<Port Name="Rathmullan" ID="0664" Desc="" Image="Rathmullan.png" Lat="55°05'.70N" Long="07°31'.66W"/>
+	<Port Name="Red Bay" ID="0643" Desc="" Image="RedBay.png" Lat="55°03'.91N" Long="06°03'.13W"/>
+	<Port Name="Ringaskiddy" ID="0751" Desc="" Image="Ringaskiddy.png" Lat="51°83'.33N" Long="08°31'.67W"/>
+	<Port Name="River Boyne Bar" ID="0623" Desc="" Image="RiverBoyneBar.png" Lat="53°71'.67N" Long="6°25'.00W"/>
+	<Port Name="RIVER FOYLE (LISAHALLY)" ID="0658" Desc="" Image="LISAHALLY.png" Lat="55°04'.20N" Long="07°26'.30W"/>
+	<Port Name="Roberts Cove" ID="0748" Desc="" Image="RobertsCove.png" Lat="30°27'.55N" Long="92°30'.24W"/>
+	<Port Name="Roonah Quay" ID="0700" Desc="" Image="RoonahQuay.png" Lat="53°45'.80N" Long="09°54'.20W"/>
+	<Port Name="ROSSLARE EUROPORT" ID="0767" Desc="" Image="ROSSLAREEUROPORT.png" Lat="52°15'.30N" Long="06°20'.90W"/>
+	<Port Name="Roundstone Bay" ID="0705" Desc="" Image="RoundstoneBay.png" Lat="53°23'.00N" Long="09°54'.50W"/>
+	<Port Name="Schull" ID="0742" Desc="" Image="Schull.png" Lat="51°30'.80N" Long="09°32'.00W"/>
+	<Port Name="Seafield Point" ID="0712" Desc="" Image="SeafieldPoint.png" Lat="52°80'.83N" Long="09°48'.88W"/>
+	<Port Name="Seamount Bay" ID="0667" Desc="" Image="SeamountBay.png" Lat="55°11'.98N" Long="07°48'.83W"/>
+	<Port Name="Sligo Harbour (Oyster Island)" ID="0689" Desc="" Image="SligoHarbour.png" Lat="54°18'.30" Long="08°34'.70"/>
+	<Port Name="Slyne Head" ID="0704" Desc="" Image="SlyneHead.png" Lat="53°23'.99N" Long="10°14'.05W"/>
+	<Port Name="Smerwick Harbour" ID="0722" Desc="" Image="Smerwick.png" Lat="52°13'.00N" Long="10°24'.00W"/>
+	<Port Name="Soldiers Point" ID="0625" Desc="Dundalk pile lighthouse" Image="SoldiersPoint.png" Lat="53°58'.54N" Long="06°17'.68W"/>
+	<Port Name="South Rock" ID="0635" Desc="" Image="SouthRock.png" Lat="54°24'.48N" Long="05°21'.94W"/>
+	<Port Name="Strangford" ID="0633" Desc="" Image="Strangford.png" Lat="54°36'.67N" Long="5°50'.00W"/>
+	<Port Name="TARBERT ISLAND" ID="0715" Desc="" Image="TARBERT.png" Lat="52°57'.24N" Long="9°37'.51W"/>
+	<Port Name="Trawbreaga Bay" ID="0663" Desc="" Image="Trawbreaga.png" Lat="55°28'.50N" Long="07°29'.47W"/>
+	<Port Name="Warren Lighthouse" ID="0654" Desc="" Image="WarrenLighthouse.png" Lat="55°13'.00N" Long="06°57'.00W"/>
+	<Port Name="Warrenpoint" ID="0628" Desc="" Image="Warrenpoint.png" Lat="54°01'.25N" Long="06°04'.30W"/>
+	<Port Name="Waterford" ID="0762" Desc="" Image="Waterford.png" Lat="52°15'.50N" Long="07°06'.00W"/>
+	<Port Name="West Cove" ID="0727" Desc="" Image="WestCove.png" Lat="51°77'.17N" Long="10°05'.60"/>
+	<Port Name="Wexford Harbour" ID="0768" Desc="" Image="WexfordHarbour.png" Lat="52°20'.10N" Long="06°27'.00W"/>
+	<Port Name="Wicklow" ID="0613" Desc="" Image="Wicklow.png" Lat="52°58'.98N" Long="06°02'.70W"/>
+	<Port Name="Youghal" ID="0755" Desc="" Image="Youghal.png" Lat="51°56'.54N" Long="07°50'.20W"/>
+</Ports>

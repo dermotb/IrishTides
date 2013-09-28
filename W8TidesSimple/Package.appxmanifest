@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="025b98a9-d260-45c4-b60d-7c6dd9183d46" Publisher="CN=dboyle" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Irish Tides</DisplayName>
+    <PublisherDisplayName>dermotb</PublisherDisplayName>
+    <Logo>Assets\store50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="W8TidesSimple.App">
+      <VisualElements DisplayName="Irish Tides" Logo="Assets\MarkerSquare150x150.png" SmallLogo="Assets\squareScale30x30.png" Description="Tidal data for 130 ports around the Irish coastline" ForegroundText="light" BackgroundColor="#5A6DAF">
+        <DefaultTile ShowName="logoOnly" WideLogo="Assets\Wide310.150.png" />
+        <SplashScreen Image="Assets\Wide620x300.png" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.fileTypeAssociation">
+          <FileTypeAssociation Name="tides">
+            <SupportedFileTypes>
+              <FileType>.xml</FileType>
+            </SupportedFileTypes>
+          </FileTypeAssociation>
+        </Extension>
+        <Extension Category="windows.backgroundTasks" EntryPoint="Tasks.BackgroundTileUpdate">
+          <BackgroundTasks>
+            <Task Type="systemEvent" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
